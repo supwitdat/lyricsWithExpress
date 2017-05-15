@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  background-color: indianred;
+  text-align: center;
+  font-family: 'Barrio', cursive;
+
+}
+
+h1 {
+  color: indianred;
+}
+
+p {
+  font-size: 30px;
+}
+
+.wrap {
+  width: 50%;
+  height: 300px;
+  border: 1px solid black;
+  border-radius: 20px;
+  display: inline-block;
+  margin: 30px auto;
+  padding: 10px;
+  background-color: darkseagreen;
+  box-shadow: 0px 0px 60px black;
+}
